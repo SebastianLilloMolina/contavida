@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863755640811",
+    "project_id": "contavida-535f9",
+    "storage_bucket": "contavida-535f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863755640811:android:e3ef3b8ad970c5bf5003ae",
+        "android_client_info": {
+          "package_name": "com.xato.contavida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ht0IVBb__nWuDYMw-L6XGPnD_1LOu3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
